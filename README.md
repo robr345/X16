@@ -1,2 +1,4 @@
-# X16
-X16 test programs
+# Commander X16
+C Test programs using the cc65 compilier
+
+
